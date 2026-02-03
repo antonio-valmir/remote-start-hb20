@@ -60,6 +60,13 @@ testes em bancada e no veículo.
 
 ---
 
+## 🎥 Vídeos de Demonstração
+
+- Sistema em funcionamento real: **(https://youtube.com/shorts/JTFrbbys-P8)**
+                                 **(https://youtube.com/shorts/TTD2mf0zWlY)**
+                                 **(https://youtube.com/shorts/fy3Lmz_-D58)**
+---
+
 ## ⚠️ Aviso importante
 
 Este sistema interage com a eletrônica automotiva.
