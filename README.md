@@ -1,7 +1,7 @@
 
 # Partida Remota – Hyundai HB20 (2016)
 
-## 🔥 Projeto real | Sistema Embarcado | Automotivo
+##  Projeto real | Sistema Embarcado | Automotivo
 
 Este projeto é um sistema de **partida remota do motor** para um Hyundai HB20 (2016),
 desenvolvido sem módulos comerciais prontos e utilizando o **controle original do veículo**.
@@ -11,7 +11,7 @@ e proteção por Watchdog.
 
 ---
 
-## 🚗 O que este sistema faz
+##  O que este sistema faz
 
 - Dá partida no motor remotamente usando o controle original
 - Mantém o comportamento original do carro (não interfere no BCM)
@@ -25,7 +25,7 @@ e proteção por Watchdog.
 
 ---
 
-## 🧠 Recursos técnicos
+##  Recursos técnicos
 
 - Código em **C/C++ puro para AVR**
 - Watchdog ativado por **fuse**
@@ -38,7 +38,7 @@ e proteção por Watchdog.
 
 ---
 
-## 🧩 Hardware utilizado
+##  Hardware utilizado
 
 - Microcontrolador ATmega  
 - Sinais do controle original Hyundai  
@@ -60,7 +60,7 @@ testes em bancada e no veículo.
 
 ---
 
-## 🎥 Vídeos de Demonstração
+## Vídeos de Demonstração
 
 - Sistema em funcionamento real: **(https://youtube.com/shorts/JTFrbbys-P8)**
                                  **(https://youtube.com/shorts/TTD2mf0zWlY)**
